@@ -1,3 +1,0 @@
-# hell-world
-world
-こんにちは
